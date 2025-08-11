@@ -1,6 +1,6 @@
-Before commencing these steps, make sure to download the following file:
-
 Update the Compliance Score:
+
+Before commencing these steps, make sure to download the following file:
 
 1.) Go to Microsoft Purview and select Compliance Manager
 
