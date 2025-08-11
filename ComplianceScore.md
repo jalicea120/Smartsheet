@@ -18,4 +18,11 @@ Update the Compliance Score:
 
 7.) Save the document, and go to Microsoft Purview. 
 
-8.) On the same page within Compliance Manager > Assessments > NIST 800 171 Assessments, selec
+8.) On the same page within Compliance Manager > Assessments > NIST 800 171 Assessments, select "Update Actions":
+
+<img width="1051" height="340" alt="Screenshot 2025-08-11 at 2 42 36 PM" src="https://github.com/user-attachments/assets/8ba6f841-643b-4069-8eb9-dc922ceba833" />
+
+
+9.) Complete all the checklists and in Action Import, upload the "Import Actions" file with your latest changes.
+
+10.) Once successful, select Review and finish.
