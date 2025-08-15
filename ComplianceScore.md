@@ -2,6 +2,8 @@ Update the Compliance Score:
 
 Before commencing these steps, make sure to download the following file:
 
+[Compliance Score - 08-25.xlsx](https://github.com/user-attachments/files/21803961/Compliance.Score.-.08-25.xlsx)
+
 1.) Go to Microsoft Purview and select Compliance Manager
 
 2.) Select Assessments and "NIST 800 171 Assessment"
