@@ -12,11 +12,13 @@ Before commencing these steps, make sure to download the following file:
    
 <img width="1052" height="331" alt="Screenshot 2025-08-11 at 2 28 19 PM" src="https://github.com/user-attachments/assets/bf3f552f-c764-46dc-ba86-1d385d117fe2" />
 
-4.) Once downloaded, open the Excel sheet and move to the "Action Update" tab.
+4.) Once downloaded, open the Excel sheet named ExportActions.xlsx and move to the "Action Update" sheet.
 
-5.) For column "Action Id" select and copy all the 493 rows.
+5.) Right click the "Improvement Action Name" cell and select "Sort > Sort from A-Z", then on column "Action Id" select all, and copy all the 493 rows.
 
-6.) Jump over to the "ImportActions" excel file and go to the "Action Update" tab to paste the values under "Action Id"
+6.) Jump over to the "Compliance.Score.xlsx" excel file and go to the "Action Update" sheet. 
+
+7.) Right click the "Improvement Action Name" cell and select "Sort > Sort from A-Z", then on column "Action Id" paste the values copied from Step 5.
 
 7.) Save the document, and go to Microsoft Purview. 
 
