@@ -1,6 +1,4 @@
-## ✅ Enable Unified Audit Log Ingestion in PowerShell (US Gov)
-
-To enable Unified Audit Log Ingestion for Microsoft 365, follow the steps below.
+## ✅ Create Custom Detection Rule for BreakGlass Admin Account SignIn
 
 ### ✅ Step 1: Under Advance Hunting, paste the following KQL query after updating the *breakglass-admin@<TENANT_NAME>.onmicrosoft.us* with the client's information.
 
