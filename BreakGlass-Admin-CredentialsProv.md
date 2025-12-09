@@ -12,7 +12,7 @@
 
 1. Click **+ Create New** → select **Record Type: Login**  
 1. Enter a clear Title for the record (e.g., “Break Glass Account – [Client Name]”)  
-1. Under Login Information, enter the newly created admin email (e.g., breakglass-admin@<tenant>.onmicrosoft.us)  
+1. Under Login Information, enter the newly created admin email (e.g., breakglass-admin@tenant-name.onmicrosoft.us)  
 
 #### Step 3 — Generate a Strong Password
 
