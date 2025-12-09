@@ -1,4 +1,4 @@
-## Credential Provisioning Process
+## Secure Credential Provisioning Process
 
 ### Follow the steps below to create and securely share the Global Administrator account credentials with the client.
 #### Step 1 — Access Keeper
