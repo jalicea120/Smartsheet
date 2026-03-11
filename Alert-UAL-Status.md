@@ -114,5 +114,4 @@ Disconnect-ExchangeOnline -Confirm:$false
 - It can take **up to 24 hours** for a new policy to sync to the detection engine.
 - This alert fires on **any** execution of `Set-AdminAuditLogConfig` — whether UAL is being enabled **or** disabled. Always investigate to confirm intent.
 - Verify and manage the policy in the Defender portal:
-  - **Commercial:** https://security.microsoft.com/alertpoliciesv2
   - **GCCH:** https://security.microsoft.us/alertpoliciesv2
