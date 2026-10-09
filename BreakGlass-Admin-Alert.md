@@ -3,20 +3,19 @@
 ### ✅ Step 1: Under Advance Hunting, paste the following KQL query after updating the *breakglass-admin@<TENANT_NAME>.onmicrosoft.us* with the client's information.
 
 ``` powershell
-IdentityLogonEvents
-| where AccountUpn =~ "breakglass-admin@<TENANT_NAME>.onmicrosoft.us"
-| where ActionType in ("LogonSuccess", "LogonFailed")
+EntraIdSignInEvents
+| where AccountUpn =~ "breakglass-admin@shapiroandduncangov.onmicrosoft.us"
 | project
     Timestamp,
     AccountUpn,
-    ActionType,
-    FailureReason,
+    ErrorCode,
     IPAddress,
-    Location,
+    Country,
+    City,
     Application,
-    DeviceName,
     LogonType,
-    ReportId 
+    DeviceName,
+    ReportId
 ```
 
 ### 🔐 Step 2: On the top right of the Query Builder, click on "Create detection rule"
